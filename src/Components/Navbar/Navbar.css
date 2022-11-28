@@ -1,0 +1,17 @@
+.navbar{
+ background-color: #2C3E50;
+}
+
+.nav-link{
+ color: #ffF !important;
+ transition: all .5s;
+ -webkit-transition: all .5s;
+ -moz-transition: all .5s;
+ -ms-transition: all .5s;
+ -o-transition: all .5s;
+}
+
+.nav-link:hover{
+ color: #1ABC9C !important;
+}
+
